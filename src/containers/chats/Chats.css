@@ -20,7 +20,7 @@
     border-top-left-radius: 2px;
     border-bottom-left-radius: 2px;
 }
-.Chat.is-user-msg {
+.Chat.is_user-msg {
     margin-left: auto;
     background: #2b2c33;
     border-top-right-radius: 0;
